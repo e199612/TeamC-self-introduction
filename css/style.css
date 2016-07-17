@@ -1,0 +1,153 @@
+#first_content{
+	background-color: rgba(242, 242, 242,0.9);
+	border-radius: 20px;
+	margin: 0px auto;
+	margin-top: 18%;
+	padding: 10px;
+	width: 80%;
+
+}
+#second_content{
+	background-color: rgba(242, 242, 242,0.9);
+	border-radius: 20px;
+	
+	padding: 10px;
+	width: 80%;
+
+	margin: 0px auto;
+	margin-top: 9%;
+
+}
+#last_content{
+	background-color: rgba(242, 242, 242,0.9);
+	border-radius: 20px;
+	
+	padding: 10px;
+	width: 80%;
+
+	margin: 0px auto;
+	margin-top: 9%;
+	margin-bottom: 9%;
+
+}
+
+#title_name{
+	margin-left:70%;
+	margin-top:-10%;
+}
+#title_name:hover{
+	color:rgba(166, 166, 166,0.9);
+
+
+}
+
+.title{
+	text-align:center;
+}
+.title:hover{
+	font-size:70px;
+	color:rgba(166, 166, 166,0.9);
+
+}
+
+.header{
+	border-radius: 100%;
+	box-shadow: 15px 15px 30px rgba(200, 200, 200, 0.8);
+
+	width:200px;
+	margin-left:40%;
+	margin-top:-20%;
+}
+.header:hover{
+	height:auto;
+	width:30%;
+}
+
+.background{
+	top:0px;
+	width: 50%;
+	z-index: -1;
+
+	opacity:0.4;
+	position:fixed;
+
+}
+.text_content{
+
+	
+
+	margin-top:10%;
+	margin-left:6%;
+	margin-right:6%;
+	margin-bottom:10%;
+}
+.test{
+	 background-image: url("../pictures/header.jpg");
+}
+
+.last_text{
+	font-weight:bold;
+	font-size:20px;
+	margin-left: 3%;
+}
+.idol_div{
+	
+	margin-top:3%;
+	height: 200px;
+}
+.idol_img{
+	width:auto;
+	height: 200px;
+	
+}
+.idol_text{
+	overflow: scroll;
+	height:200px;
+}
+.idol_picturesDiv{
+	width:450px;
+	height: 200px;
+	float:left;
+	background-color: rgba(100, 0, 255,1);
+}
+.mayday{
+
+	background-image: url("../pictures/五月天_1.jpg");
+}
+.mayday:hover{
+	background-image: url("../pictures/五月天_2.jpg");
+}
+.sodagreen{
+
+	background-image: url("../pictures/蘇打綠_1.jpg");
+}
+.sodagreen:hover{
+	background-image: url("../pictures/蘇打綠_2.jpg");
+}
+.No_Party{
+
+	background-image: url("../pictures/草東沒有派對_1.jpg");
+}
+.No_Party:hover{
+	background-image: url("../pictures/草東沒有派對_2.png");
+}
+.singer{
+
+	background-image: url("../pictures/singer.png");
+}
+.programmer{
+
+	background-image: url("../pictures/programmer_1.jpg");
+}
+.programmer:hover{
+	background-image: url("../pictures/programmer_2.jpg");
+}
+
+.idol_title{
+	font-weight:bold;
+	text-align:center;
+
+}
+.bucketlist_text{
+	font-size:40px; 
+}
