@@ -1,4 +1,4 @@
-#first_content{
+﻿#first_content{
 	background-color: rgba(242, 242, 242,0.9);
 	border-radius: 20px;
 	margin: 0px auto;
@@ -142,7 +142,13 @@
 .programmer:hover{
 	background-image: url("../pictures/programmer_2.jpg");
 }
+.girls{
 
+	background-image: url("../pictures/50783.jpg");
+}
+.girls:hover{
+	background-image: url("../pictures/taeyeonimv.jpg");
+}
 .idol_title{
 	font-weight:bold;
 	text-align:center;
